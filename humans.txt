@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
     Atul Shegokar 		amshegjokar@gmail.com
+    This added for simple rebase in myfeaure branch
+
 
 # THANKS
 
