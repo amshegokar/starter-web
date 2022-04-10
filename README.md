@@ -18,4 +18,4 @@ Git.Traing
 
 Please for this repo and then issue Pull request for review
 
-####Added for rebase in master
+####Added for rebase in master, This is one more line for added rebasing after continueing more changes form myfeatre branch
