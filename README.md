@@ -12,3 +12,6 @@ This is how you code
 ##Deployment
 
 This is sample deployment
+
+###Copyright
+Git.Traing
