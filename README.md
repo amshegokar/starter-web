@@ -15,3 +15,5 @@ This is sample deployment
 
 ###Copyright
 Git.Traing
+
+Please for this repo and then issue Pull request for review
