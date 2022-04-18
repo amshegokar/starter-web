@@ -14,7 +14,7 @@ This is how you code
 This is sample deployment
 
 ###Copyright
-Git.Traing.All right reserver
+Git.Traing.All right reservelkasjdlfjlajksfdjr
 
 Please for this repo and then issue Pull request for review
 
