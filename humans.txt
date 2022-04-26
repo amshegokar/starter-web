@@ -8,7 +8,7 @@
     This added for simple rebase in myfeaure branch
 
 
-# THANKS
+# TH
 
     Pleaseleave review if you want this course
 
